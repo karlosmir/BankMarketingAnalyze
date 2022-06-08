@@ -1,2 +1,2 @@
 # BankMarketingAnalyze
-Analyze a marketing campaing from a bank using differents algorithms
+Analyze a marketing campaign from a bank using differents algorithms
